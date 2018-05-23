@@ -1,0 +1,15 @@
+PODS:
+  - APJTextPickerView (0.0.7)
+  - SwiftSpinner (1.5.0)
+
+DEPENDENCIES:
+  - APJTextPickerView
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  APJTextPickerView: 2c2b6ca0f2a8076b8e10e3d6f2e92add429118e5
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+
+PODFILE CHECKSUM: c65e8776d7880dcab38683faf94e34ce78d08c82
+
+COCOAPODS: 1.4.0

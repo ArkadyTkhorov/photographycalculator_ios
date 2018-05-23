@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StarTrailsViewController.CalcExposure():StarTrailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recommendedShutterspeed">
+            </PersistentString>
+            <PersistentString
+               value = "String(recommendedISO)">
+            </PersistentString>
+            <PersistentString
+               value = "recommendISO">
+            </PersistentString>
+            <PersistentString
+               value = "round(recommendedShutterspeed)">
+            </PersistentString>
+            <PersistentString
+               value = "recommendedISO">
+            </PersistentString>
+            <PersistentString
+               value = "String(round(recommendedShutterspeed))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
